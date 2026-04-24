@@ -1,18 +1,17 @@
 **Trabalho- Modelagem Computacional**\
 
-Considere que temos disponíveis os dados abaixo, que representam medidas do arrasto total de um aerofólio (𝐷) em
-função da velocidade (𝑉):
+Em engenharia, frequentemente são utilizados métodos quantitativos para a resolução de problemas de aplicação, visto que em geral as equações que descrevem os fenômenos e dependências físicas são de difícil resolução analítica ou são de elevado dispêndio computacional. No caso considerado foram obtidas medidas experimentais para o arrasto total de um aerofólio como função de sua velocidade, utilizando-se de dois métodos distintos que permitiram estipular uma previsibilidade matemática ao conjunto de dados obtidos.
 
-Inicialmente, estamos interessados em saber qual seria a velocidade ótima que minimize o arrasto total do aerofólio.
-Para esta tarefa, faça as análises acerca dos itens abaixo:
+Inicialmente, estavamos interessados em saber qual seria a velocidade ótima que minimize o arrasto total do aerofólio.
+Para esta tarefa, foram realizadas as análises acerca dos itens abaixo:
 
-(i) Determine o polinômio que melhor se ajusta aos dados disponíveis, por meio de um estimador de mínimos
+(i) Determinar o geau do polinômio que melhor se ajustaria aos dados disponíveis, por meio de um estimador de mínimos
 quadrados;
 
-(ii) Utilize o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
-usando qualquer método de otimização da sua escolha;
+(ii) Utilizar o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
+usando um qualquer método de otimização de nossa escolha;
 
-**$\sqrt{3x-1}+(1+x)^2$**\
+$\sqrt{3x-1}+(1+x)^2$
 
 Agora considere o modelo dado pela equação abaixo, que estima o arrasto total de um aerofólio,
 $𝐷 = 0,01𝜎𝑉$ 0,95/𝜎 -
