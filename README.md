@@ -12,9 +12,10 @@ quadrados;
 (ii) Utilize o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
 usando qualquer método de otimização da sua escolha;
 
+$\sqrt{3x-1}+(1+x)^2$
+
 Agora considere o modelo dado pela equação abaixo, que estima o arrasto total de um aerofólio,
-$𝐷 = 0,01𝜎𝑉$ 0,95
-𝜎 -
+$𝐷 = 0,01𝜎𝑉$ 0,95/𝜎 -
 𝑊
 𝑉 /
 !
