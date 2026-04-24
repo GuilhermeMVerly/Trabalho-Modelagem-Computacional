@@ -13,8 +13,9 @@ quadrados;
 usando qualquer método de otimização da sua escolha;
 
 Agora considere o modelo dado pela equação abaixo, que estima o arrasto total de um aerofólio,
-
+\begin{equation}
 𝐷 = 0,01𝜎𝑉! +
+\end{equation
 0,95
 𝜎 -
 𝑊
