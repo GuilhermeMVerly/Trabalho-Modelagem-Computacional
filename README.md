@@ -11,7 +11,8 @@ quadrados;
 (ii) Utilizar o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
 usando um qualquer método de otimização de nossa escolha;
 
-Foi considerado o modelo dado pela equação abaixo, que se estima o arrasto total de um aerofólio,
+Foi considerado o modelo dado pela equação abaixo, que se estima o arrasto total de um aerofólio fornecido pela literatura:
+
 $𝐷 = 0,01𝜎𝑉^2 + \frac{0,95}{𝜎}\frac{(W)^2}{(V^2)} $
 
 onde 𝐷 é o arrasto, 𝜎 é a razão da densidade do ar entre a altitude de vôo e o nível do mar, 𝑊 é o peso e 𝑉 é a velocidade.
