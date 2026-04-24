@@ -1,4 +1,5 @@
 #Trabalho- Modelagem Computacional
+
 **Membros: Alessandro Cardinot Bernardo da Silveira e Guilherme Munhooz Verly**
 
 Em engenharia, frequentemente são utilizados métodos quantitativos para a resolução de problemas de aplicação, visto que em geral as equações que descrevem os fenômenos e dependências físicas são de difícil resolução analítica ou são de elevado dispêndio computacional. No caso considerado foram obtidas medidas experimentais para o arrasto total de um aerofólio como função de sua velocidade, utilizando-se de dois métodos distintos que permitiram estipular uma previsibilidade matemática ao conjunto de dados obtidos.
