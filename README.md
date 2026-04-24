@@ -5,19 +5,14 @@ Em engenharia, frequentemente são utilizados métodos quantitativos para a reso
 Inicialmente, estavamos interessados em saber qual seria a velocidade ótima que minimize o arrasto total do aerofólio.
 Para esta tarefa, foram realizadas as análises acerca dos itens abaixo:
 
-(i) Determinar o geau do polinômio que melhor se ajustaria aos dados disponíveis, por meio de um estimador de mínimos
+(i) Determinar o grau do polinômio que melhor se ajustaria aos dados disponíveis, por meio de um estimador de mínimos
 quadrados;
 
 (ii) Utilizar o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
 usando um qualquer método de otimização de nossa escolha;
 
-$\sqrt{3x-1}+(1+x)^2$
-
-Agora considere o modelo dado pela equação abaixo, que estima o arrasto total de um aerofólio,
-$𝐷 = 0,01𝜎𝑉$ 0,95/𝜎 -
-𝑊
-𝑉 /
-!
+Foi considerado o modelo dado pela equação abaixo, que se estima o arrasto total de um aerofólio,
+$𝐷 = 0,01𝜎𝑉^2 + \frac{0,95}{𝜎}\frac{(W)^2}{(V^2)} $
 
 onde 𝐷 é o arrasto, 𝜎 é a razão da densidade do ar entre a altitude de vôo e o nível do mar, 𝑊 é o peso e 𝑉 é a velocidade.
 
