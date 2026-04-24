@@ -5,11 +5,14 @@ função da velocidade (𝑉):
 
 Inicialmente, estamos interessados em saber qual seria a velocidade ótima que minimize o arrasto total do aerofólio.
 Para esta tarefa, faça as análises acerca dos itens abaixo:
+
 (i) Determine o polinômio que melhor se ajusta aos dados disponíveis, por meio de um estimador de mínimos
 quadrados;
+
 (ii) Utilize o polinômio obtido para computar o valor ótimo da velocidade que fornece o mínimo arrasto total,
 usando qualquer método de otimização da sua escolha;
 Agora considere o modelo dado pela equação abaixo, que estima o arrasto total de um aerofólio,
+
 𝐷 = 0,01𝜎𝑉! +
 0,95
 𝜎 -
